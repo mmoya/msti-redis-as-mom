@@ -1,0 +1,15 @@
+*.bak
+
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.idx
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+
+memcache-example.tex
